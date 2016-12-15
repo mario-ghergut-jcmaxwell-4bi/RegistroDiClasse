@@ -9,6 +9,9 @@ Il programma permette ai professori e agli studenti di accedere al registro con 
 ###<b> Istruzioni di installazione </b>
 
 ###<b> Manuale d’uso </b>
+Se è la prima volta che si deve accedere al registro si deve fare una registrazione con username e password ed ogni volta che si vorrà entra nel portale si dovranno utilizzare le credenziali della registrazione.
+Nella pagina del registro si potranno vedere delle caselline con su scritto il nome delle materie e se si clicca sopra apparirà una tabella con tutti i voti della materia e alla fine di questa tabella la media. Se la media e inferiore al 6 la scritta della media sarà rossa altrimenti sara verde
+
 
 ###<b> Autori </b>
 <p> George Bostan </p>
