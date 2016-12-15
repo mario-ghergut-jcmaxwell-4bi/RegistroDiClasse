@@ -10,5 +10,9 @@
 ###<b> Manuale d’uso </b>
 
 ###<b> Autori </b>
+George Bostan
+Mario Ghergut
+Fabio De Cicco
+Davide Tudisco 
 
 ###<b> Ringraziamenti </b>
