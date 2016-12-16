@@ -7,7 +7,7 @@ Il programma permette ai professori e agli studenti di accedere al registro con 
 ###<b> Scomposizione in componenti semplici </b>
 
 ###<b> Istruzioni di installazione </b>
-
+Il registro elettronico online verrà installato in locale sul proprio pc. Inoltre sarà progettato per essere installato e utilizzato attraverso un server remoto, per consentire a tutti gli utenti di visualizzare i voti o scrivere gli argomenti delle lezioni svolte, tramite internet.
 ###<b> Manuale d’uso </b>
 
 ###<b> Autori </b>
