@@ -4,8 +4,11 @@ Il programma permette ai professori e agli studenti di accedere al registro con 
 
 ###<b> Architettura </b>
 <b> -Macro Blocchi </b>
+<b>Interfaccia utente</b>
+ <p>Utilizzo dei Macro Blocchi come componenti più semplici</p>
+  
 ###<b> Scomposizione in componenti semplici </b>
-
+<b>Utilizzo dei Macro Blocchi come componenti più semplici</b>
 ###<b> Istruzioni di installazione </b>
 Il registro elettronico online verrà installato in locale sul proprio pc. Inoltre sarà progettato per essere installato e utilizzato attraverso un server remoto, per consentire a tutti gli utenti di visualizzare i voti o scrivere gli argomenti delle lezioni svolte, tramite internet.
 ###<b> Manuale d’uso </b>
